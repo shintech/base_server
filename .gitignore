@@ -2,3 +2,12 @@
 /bower_components
 /build/
 /npm-debug.log
+/docker-compose.yml
+/*.env
+/data
+*pagurbate
+*backbone_table_view
+*backbone_form_view
+*backbone_modal_view
+*backbone_app
+shintech*
